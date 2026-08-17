@@ -24,6 +24,13 @@ jobs:
           GITHUB_USERNAME: gly-hub
         run: node scripts/generate-cards.mjs
 
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gly-hub
+          outputs: |
+            generated/profile-cards/github-contribution-grid-snake.svg?palette=github-light
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"

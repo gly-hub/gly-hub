@@ -4,12 +4,12 @@ const username = process.env.GITHUB_USERNAME || "gly-hub";
 const token = process.env.GITHUB_TOKEN;
 const output = "generated/profile-cards";
 const theme = {
-  bg: "#101d30",
-  text: "#f3f7ff",
-  muted: "#aabbd7",
-  blue: "#53b1ff",
-  green: "#4ed8ab",
-  yellow: "#ffc75d",
+    bg: "#ffffff",
+    text: "#24292f",
+    muted: "#57606a",
+    blue: "#0969da",
+    green: "#1a7f37",
+    yellow: "#9a6700",
 };
 
 const escapeXml = (value) =>
