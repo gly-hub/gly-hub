@@ -1,6 +1,6 @@
 ### 👋 Hi there
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/github-contribution-grid-snake.svg" />
+  <img src="./generated/profile-cards/github-contribution-grid-snake.svg" />
 </p>
 
 ###  👨🏻   About Me
@@ -12,8 +12,8 @@ This profile is where I share my projects, learning, and experiments. If you als
 
 ### 🔧 Technologies
 <div style="display: flex; flex-direction: row;">
-  <img width="47%" height="auto" src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/languages.svg" />
-  <img width="45%" height="auto" src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/activity.svg" />
+  <img width="47%" height="auto" src="./generated/profile-cards/languages.svg" />
+  <img width="45%" height="auto" src="./main/generated/profile-cards/activity.svg" />
 </div>
 
 <!--
