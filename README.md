@@ -1,8 +1,6 @@
 ### 👋 Hi there
 <p align="center">
-  <samp>
-    Welcome, You are my <img src="https://profile-counter.glitch.me/gly-hub/count.svg" /> visitor, Thank You!🎉🎉
-  </samp>
+  <img src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/github-contribution-grid-snake.svg" />
 </p>
 
 ###  👨🏻   About Me
@@ -10,8 +8,8 @@ A motivated golang developer
 
 ### 🔧 Technologies
 <div style="display: flex; flex-direction: row;">
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=gly-hub&show_icons=true" />
-  <img width="45%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=gly-hub&theme=deuteranopia-friendly-theme&date_format=M%20j%5B%2C%20Y%5D&type=png&background=FFFFFF" />
+  <img width="47%" height="auto" src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/languages.svg" />
+  <img width="45%" height="auto" src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/activity.svg" />
 </div>
 
 <!--
