@@ -1,6 +1,6 @@
 ### 👋 Hi there
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/github-contribution-grid-snake.svg" />
+  <img src="./generated/github-contribution-grid-snake.svg" />
 </p>
 
 ###  👨🏻   About Me
