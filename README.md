@@ -1,10 +1,14 @@
 ### 👋 Hi there
 <p align="center">
-  <img src="./generated/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gly-hub/gly-hub/main/generated/profile-cards/github-contribution-grid-snake.svg" />
 </p>
 
 ###  👨🏻   About Me
-A motivated golang developer
+Hi, I'm **Vangogh**, a Go developer based in Chengdu.
+
+I enjoy building practical backend services and developer tools, with a focus on reliable and maintainable systems. Recently, I have also been exploring AI and using AI tools to gradually turn my ideas into working projects.
+
+This profile is where I share my projects, learning, and experiments. If you also enjoy turning ideas into things people can use, feel free to connect. I would be glad to meet like-minded builders.
 
 ### 🔧 Technologies
 <div style="display: flex; flex-direction: row;">
