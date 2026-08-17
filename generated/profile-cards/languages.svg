@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-label="gly-hub top languages">
-  <rect width="600" height="220" fill="#101d30"/>
-  <rect x="1" y="1" width="598" height="218" fill="none" stroke="#53b1ff" stroke-opacity=".23"/>
-  <text x="28" y="41" fill="#53b1ff" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">TOP LANGUAGES</text>
-<text x="28" y="76" fill="#f3f7ff" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Public repository languages</text>
-<circle cx="31" cy="108" r="5" fill="#53b1ff"/>
-<text x="44" y="112" fill="#f3f7ff" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">Go</text>
-<text x="562" y="112" fill="#aabbd7" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">50%</text>
-<rect x="160" y="102" width="288" height="5" fill="#f3f7ff" opacity=".12"/>
-<rect x="160" y="102" width="144" height="5" fill="#53b1ff"/><circle cx="31" cy="133" r="5" fill="#4ed8ab"/>
-<text x="44" y="137" fill="#f3f7ff" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">TypeScript</text>
-<text x="562" y="137" fill="#aabbd7" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">32%</text>
-<rect x="160" y="127" width="288" height="5" fill="#f3f7ff" opacity=".12"/>
-<rect x="160" y="127" width="92.16" height="5" fill="#4ed8ab"/><circle cx="31" cy="158" r="5" fill="#ffc75d"/>
-<text x="44" y="162" fill="#f3f7ff" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">JavaScript</text>
-<text x="562" y="162" fill="#aabbd7" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">14%</text>
-<rect x="160" y="152" width="288" height="5" fill="#f3f7ff" opacity=".12"/>
-<rect x="160" y="152" width="40.32" height="5" fill="#ffc75d"/><circle cx="31" cy="183" r="5" fill="#aabbd7"/>
-<text x="44" y="187" fill="#f3f7ff" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">Python</text>
-<text x="562" y="187" fill="#aabbd7" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">5%</text>
-<rect x="160" y="177" width="288" height="5" fill="#f3f7ff" opacity=".12"/>
-<rect x="160" y="177" width="14.399999999999999" height="5" fill="#aabbd7"/>
+  <rect width="600" height="220" fill="#ffffff"/>
+  <rect x="1" y="1" width="598" height="218" fill="none" stroke="#0969da" stroke-opacity=".23"/>
+  <text x="28" y="41" fill="#0969da" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">TOP LANGUAGES</text>
+<text x="28" y="76" fill="#24292f" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Public repository languages</text>
+<circle cx="31" cy="108" r="5" fill="#0969da"/>
+<text x="44" y="112" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">Go</text>
+<text x="562" y="112" fill="#57606a" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">50%</text>
+<rect x="160" y="102" width="288" height="5" fill="#24292f" opacity=".12"/>
+<rect x="160" y="102" width="144" height="5" fill="#0969da"/><circle cx="31" cy="133" r="5" fill="#1a7f37"/>
+<text x="44" y="137" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">TypeScript</text>
+<text x="562" y="137" fill="#57606a" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">32%</text>
+<rect x="160" y="127" width="288" height="5" fill="#24292f" opacity=".12"/>
+<rect x="160" y="127" width="92.16" height="5" fill="#1a7f37"/><circle cx="31" cy="158" r="5" fill="#9a6700"/>
+<text x="44" y="162" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">JavaScript</text>
+<text x="562" y="162" fill="#57606a" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">14%</text>
+<rect x="160" y="152" width="288" height="5" fill="#24292f" opacity=".12"/>
+<rect x="160" y="152" width="40.32" height="5" fill="#9a6700"/><circle cx="31" cy="183" r="5" fill="#57606a"/>
+<text x="44" y="187" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start">Python</text>
+<text x="562" y="187" fill="#57606a" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end">5%</text>
+<rect x="160" y="177" width="288" height="5" fill="#24292f" opacity=".12"/>
+<rect x="160" y="177" width="14.399999999999999" height="5" fill="#57606a"/>
 </svg>
