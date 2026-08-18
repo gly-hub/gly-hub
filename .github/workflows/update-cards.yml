@@ -28,6 +28,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: gly-hub
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             tmp/snake-light.svg?palette=github-light&color_snake=%232da44e&color_dots=%23f6f8fa,%23c6e6d1,%237bc96f,%23239a3b,%23196127
             tmp/snake-dark.svg?palette=github-dark&color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
