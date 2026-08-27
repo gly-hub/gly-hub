@@ -4,7 +4,7 @@
   <text x="28" y="41" fill="#0969da" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="start">PUBLIC ACTIVITY</text>
 <text x="28" y="74" fill="#24292f" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">@gly-hub&apos;s latest work</text>
 <circle cx="34" cy="110" r="4" fill="#0969da"/>
-<text x="48" y="114" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Push in gly-hub/ai-dandelion-web</text><circle cx="34" cy="138" r="4" fill="#1a7f37"/>
-<text x="48" y="142" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Create in gly-hub/ai-dandelion</text><circle cx="34" cy="166" r="4" fill="#1a7f37"/>
-<text x="48" y="170" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Create in gly-hub/ai-dandelion-web</text>
+<text x="48" y="114" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Watch in RingBDStack/SocialED</text><circle cx="34" cy="138" r="4" fill="#1a7f37"/>
+<text x="48" y="142" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Watch in ddiakopoulos/tinyply</text><circle cx="34" cy="166" r="4" fill="#1a7f37"/>
+<text x="48" y="170" fill="#24292f" font-family="Arial, sans-serif" font-size="12" font-weight="500" text-anchor="start">Watch in modelscope/3D-Speaker</text>
 </svg>
